@@ -7,7 +7,9 @@ This repository records GitHub practice for the University of Montana Cybersecur
 - Write documentation another person can follow.
 - Review files before publishing.
 
-All workshop examples use harmless, synthetic information.## File guide
+All workshop examples use harmless, synthetic information.
+
+## File guide
 - `learning-log.md`: example workshop takeaways.
 - `summarize_logs.py`: a small Python parser for the synthetic sample format.
 - `sample-auth.log`: fictional sign-in events, including successes and failures.
