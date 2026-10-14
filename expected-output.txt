@@ -1,0 +1,8 @@
+Events read: 6
+Failed sign-ins: 4
+Successful sign-ins: 2
+Skipped malformed lines: 0
+Failures by user:
+  demo-a: 2
+  demo-b: 1
+  demo-c: 1
