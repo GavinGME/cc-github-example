@@ -42,3 +42,6 @@ Add a test for another input case and explain the resulting change in a commit.
 
 ## Safe publishing
 Keep live credentials and private keys outside repositories. Review contents, screenshots, history, and permission to share. `.gitignore` does not remove tracked files or earlier commits and does not protect browser uploads automatically.
+
+## Documentation review exercise
+This proposed sentence helps a first-time reader recognize the workshop example.
